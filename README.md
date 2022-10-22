@@ -1,6 +1,6 @@
 A react based web-app that can find weather of desired place it is built with google-api support for weather data.
 
-The backgeround image changes according to the temperature range, I couldnt find a place with temperature above 37 Celsius, so the summer backgound image cannot be viewed, Soon i will provide the test link where you can test it on your own.
+The backgeround image changes according to the temperature range, I couldnt find a place with temperature above 37 Celsius, so the summer backgound image cannot be viewed.
 
 ![Screenshot from 2022-10-22 12-25-52](https://user-images.githubusercontent.com/93082071/197325499-3fc7172e-912a-48c2-93df-f93791af1d8b.png)
 
